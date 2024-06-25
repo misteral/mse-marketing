@@ -1,4 +1,14 @@
-Table of contents
+# Table of Contents
+1. [iOS mobile application Male Sexual Energy](#ios-mobile-application-male-sexual-energy)
+2. [Definitions](#definitions)
+3. [Why, how, What](#why-how-what)
+4. [Appstore](#appstore)
+    1. [Description](#description)
+    2. [Keywords](#keywords)
+    3. [Subtitle](#subtitle)
+    4. [Promotional Text](#promotional-text)
+5. [App Related Links](#app-related-links)
+6. [Other Useful Links](#other-useful-links)
 
 # iOS mobile application Male Sexual Energy
 
@@ -53,7 +63,7 @@ Monitor your sexual activity and male sexual energy levels to maintain good heal
 4. Press Kit - https://male-sexual-energy.app/press-kit.zip
 5. AppStore - https://apps.apple.com/ge/app/male-sexual-energy/id1198577386
 
-## Other Usefull Links
+## Other Useful Links
 
 1. Places for post your startup - https://github.com/mmccaff/PlacesToPostYourStartup
 2. Product Market Fit Survey - https://pmfsurvey.com/products/5750
