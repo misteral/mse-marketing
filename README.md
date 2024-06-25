@@ -1,20 +1,20 @@
-# Table of Contents
-1. [iOS mobile application Male Sexual Energy](#ios-mobile-application-male-sexual-energy)
-2. [Definitions](#definitions)
-3. [Why, how, What](#why-how-what)
-4. [Appstore](#appstore)
+# iOS mobile application Male Sexual Energy
+
+## Table of Contents
+
+1. [Definitions](#definitions)
+2. [Why, how, What](#why-how-what)
+3. [Appstore](#appstore)
     1. [Description](#description)
     2. [Keywords](#keywords)
     3. [Subtitle](#subtitle)
     4. [Promotional Text](#promotional-text)
-5. [App Related Links](#app-related-links)
-6. [Other Useful Links](#other-useful-links)
-
-# iOS mobile application Male Sexual Energy
+4. [App Related Links](#app-related-links)
+5. [Other Useful Links](#other-useful-links)
 
 ## Definitions
 
-**Male Swxual Energy** - It is a type of energy that allows a man to remain an active sexual partner and to exhibit sexual desire.
+**Male Sexual Energy** - It is a type of energy that allows a man to remain an active sexual partner and to exhibit sexual desire.
 
 ## Why, how, What
 
